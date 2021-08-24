@@ -1,0 +1,11 @@
+Transformation of a point to other is also done using Exponentiation.
+
+Let's say we have (x,y)-->(x+y,2y-x)
+
+
+we take
+
+[[1,1,][-1,2]]*[[x][y]] =[] // Something
+
+
+that something is the transformation of x ,y as we want more we can square the coefficients and get the ans.
